@@ -16,7 +16,7 @@
         <a class="nav-link" href="${urlRoot}">Home</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Heroes</a>
+        <a class="nav-link" href="${urlRoot}heroes">Heroes</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="${urlRoot}about">About</a>
